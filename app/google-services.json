@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779182195944",
+    "project_id": "be-in-touch-a0bda",
+    "storage_bucket": "be-in-touch-a0bda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779182195944:android:fa7baee568d7c9dfab755d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIb4Pb2wT4XZywElAK6Zqf-8UYZZ6PeK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
